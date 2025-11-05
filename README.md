@@ -9,7 +9,7 @@ EngineerBeingWeb delivers a **premium website experience** that seamlessly blend
 
 - **Content Security**  
 - **Automated Payments**  
-- **AI-Powered Assistance**
+- **AI-Powered Assistance and learning in Real-Time**
 
 Ideal for **educational institutions**, **startups**, and **engineering communities**.
 
@@ -60,8 +60,8 @@ With **secure memberships**, **UPI-based payments**, and **real-time chatbot sup
   Smooth theme switching with persistent user preference.
 - **Fully Responsive Design**  
   Optimized for **desktop, tablet, and mobile**.
-- **Premium Engineering Theme**  
-  Clean, professional, and modern UI tailored for engineers.
+- **Premium Learning Theme**  
+  Clean, professional, and modern UI tailored for Learners.
 - **YouTube Integration**  
   Embedded video lectures and tutorials inside the dashboard.
 - **Interactive User Dashboard**  
@@ -260,6 +260,7 @@ To become **the unified intelligent platform** where:
 **Developed & Designed by:**  
 **Yashraj**  
 *Founder - Engineer Being*
+-**https://www.youtube.com/@engineerbeing**
 
 ---
 
